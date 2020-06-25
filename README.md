@@ -1,2 +1,2 @@
-# Introdu-oComputa-oGr-fica
+# IntroducaoComputacaoGrafica
 Atividades referentes a disciplina
